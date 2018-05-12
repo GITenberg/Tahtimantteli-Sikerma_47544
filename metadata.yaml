@@ -1,4 +1,8 @@
 _repo: Tahtimantteli-Sikerma_47544
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lehtonen, Joel
@@ -10,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Joel_Lehtonen
     - http://fi.wikipedia.org/wiki/Joel_Lehtonen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47544#Tahtimantteli-Sikerma
 gutenberg_issued: '2014-12-05'
 gutenberg_type: Text
 identifiers:
